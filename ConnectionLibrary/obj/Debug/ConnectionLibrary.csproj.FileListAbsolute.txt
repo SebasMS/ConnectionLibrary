@@ -1,0 +1,10 @@
+c:\users\smejia\documents\visual studio 2013\Projects\ConnectionLibrary\ConnectionLibrary\bin\Debug\ConnectionLibrary.dll
+c:\users\smejia\documents\visual studio 2013\Projects\ConnectionLibrary\ConnectionLibrary\bin\Debug\ConnectionLibrary.pdb
+c:\users\smejia\documents\visual studio 2013\Projects\ConnectionLibrary\ConnectionLibrary\obj\Debug\ConnectionLibrary.csprojResolveAssemblyReference.cache
+c:\users\smejia\documents\visual studio 2013\Projects\ConnectionLibrary\ConnectionLibrary\obj\Debug\ConnectionLibrary.dll
+c:\users\smejia\documents\visual studio 2013\Projects\ConnectionLibrary\ConnectionLibrary\obj\Debug\ConnectionLibrary.pdb
+A:\Documentos\Visual Studio 2013\Projects\ConnectionLibrary\ConnectionLibrary\bin\Debug\ConnectionLibrary.dll
+A:\Documentos\Visual Studio 2013\Projects\ConnectionLibrary\ConnectionLibrary\bin\Debug\ConnectionLibrary.pdb
+A:\Documentos\Visual Studio 2013\Projects\ConnectionLibrary\ConnectionLibrary\obj\Debug\ConnectionLibrary.csprojResolveAssemblyReference.cache
+A:\Documentos\Visual Studio 2013\Projects\ConnectionLibrary\ConnectionLibrary\obj\Debug\ConnectionLibrary.dll
+A:\Documentos\Visual Studio 2013\Projects\ConnectionLibrary\ConnectionLibrary\obj\Debug\ConnectionLibrary.pdb
